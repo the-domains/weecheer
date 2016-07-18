@@ -1,0 +1,28 @@
+name: WeeCheer
+favicon: null
+layout_spectrum: 0.4329539875034243
+typography_spectrum: 0.14545455621555448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5245162125211209
+  lightness: 0.8762572931591421
+  saturation: 0.9538076864555478
+  rhythmicContrast: 0.18991441559046507
+purpose: []
