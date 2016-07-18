@@ -1,7 +1,7 @@
 name: WeeCheer
 favicon: null
-layout_spectrum: 0.4329539875034243
-typography_spectrum: 0.14545455621555448
+layout_spectrum: 0.63891
+typography_spectrum: 0.47246
 title: Wee Cheer - Developmental Cheer & Youth Dance
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5245162125211209
+    - '#ffffff'
+    - '#d70c8c'
+    - '#f58152'
+    - '#64cdd1'
+    - '#f8b79c'
+  brandStrength: 0.5
   lightness: 0.8762572931591421
   saturation: 0.9538076864555478
   rhythmicContrast: 0.18991441559046507
